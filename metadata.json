@@ -1,0 +1,6 @@
+{
+  "name": "Mantai Web Agency",
+  "description": "Agencia de diseño y desarrollo web que crea experiencias digitales para impulsar tu negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
