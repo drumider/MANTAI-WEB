@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Monitor, Code2, Smartphone, Megaphone, Settings, Mail, Phone, Globe, ChevronRight } from 'lucide-react';
+import { Monitor, Code2, Smartphone, Megaphone, Settings, Mail, Phone, Globe, ChevronRight, Instagram } from 'lucide-react';
 
 export default function App() {
   const services = [
@@ -225,10 +225,14 @@ export default function App() {
                 </div>
               </div>
               
-              <div className="pt-2 flex items-center justify-start">
+              <div className="pt-2 flex flex-wrap gap-4 items-center justify-start">
                 <a href="https://mantaiweb.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 text-slate-300 hover:text-white transition-colors group px-6 py-3 bg-slate-800/50 rounded-full border border-slate-700 hover:border-brand-blue/50">
                   <Globe className="w-5 h-5 text-blue-400 group-hover:text-white transition-colors" />
                   <span className="font-medium">mantaiweb.com</span>
+                </a>
+                <a href="https://instagram.com/mantai.web" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-3 text-slate-300 hover:text-white transition-colors group px-6 py-3 bg-slate-800/50 rounded-full border border-slate-700 hover:border-pink-500/50">
+                  <Instagram className="w-5 h-5 text-pink-500 group-hover:text-white transition-colors" />
+                  <span className="font-medium">@mantai.web</span>
                 </a>
               </div>
             </motion.div>
