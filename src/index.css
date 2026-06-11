@@ -8,6 +8,10 @@
   --color-brand-dark: #0f172a; /* slate-900 */
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--font-sans);
   background-color: #f8fafc; /* slate-50 */
