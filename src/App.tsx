@@ -460,7 +460,7 @@ export default function App() {
               className="bg-slate-800/60 border border-slate-700/50 p-8 rounded-3xl hover:border-brand-blue/50 transition-colors group flex flex-col justify-between"
             >
               <div>
-                <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Gabriel Guadamuz Rivera</h3>
+                <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Gabriel Guadamuz</h3>
                 <div className="text-blue-400 text-xs font-bold tracking-wider mb-6 uppercase">CEO & Fundador</div>
               </div>
               <div className="flex flex-col gap-3.5">
@@ -484,7 +484,7 @@ export default function App() {
               className="bg-slate-800/60 border border-slate-700/50 p-8 rounded-3xl hover:border-brand-blue/50 transition-colors group flex flex-col justify-between"
             >
               <div>
-                <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Santiago Guadamuz Espinoza</h3>
+                <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Santiago Guadamuz</h3>
                 <div className="text-blue-400 text-xs font-bold tracking-wider mb-6 uppercase">Fundador</div>
               </div>
               <div className="flex flex-col gap-3.5">
@@ -508,7 +508,7 @@ export default function App() {
               className="bg-slate-800/60 border border-slate-700/50 p-8 rounded-3xl hover:border-brand-blue/50 transition-colors group flex flex-col justify-between"
             >
               <div>
-                <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Sebastián López Canessa</h3>
+                <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Sebastián López</h3>
                 <div className="text-blue-400 text-xs font-bold tracking-wider mb-6 uppercase">Fundador</div>
               </div>
               <div className="flex flex-col gap-3.5">
