@@ -195,7 +195,7 @@ export default function App() {
                 {/* Santiago */}
                 <div className="bg-slate-800/60 border border-slate-700/50 p-6 rounded-2xl hover:border-brand-blue/50 transition-colors group">
                   <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Santiago Guadamuz Espinoza</h3>
-                  <div className="text-blue-400 text-[10px] font-bold tracking-wider mb-4 uppercase">CEO & Fundador</div>
+                  <div className="text-blue-400 text-[10px] font-bold tracking-wider mb-4 uppercase">Fundador</div>
                   <div className="flex flex-col gap-3">
                     <a href="tel:+50684357138" className="flex items-center gap-3 text-slate-400 hover:text-white transition-colors text-sm">
                       <Phone className="w-4 h-4 text-blue-400" />
@@ -211,7 +211,7 @@ export default function App() {
                 {/* Sebastian */}
                 <div className="bg-slate-800/60 border border-slate-700/50 p-6 rounded-2xl hover:border-brand-blue/50 transition-colors group">
                   <h3 className="text-xl font-bold text-white mb-1 group-hover:text-brand-blue transition-colors">Sebastián López Canessa</h3>
-                  <div className="text-blue-400 text-[10px] font-bold tracking-wider mb-4 uppercase">CEO & Fundador</div>
+                  <div className="text-blue-400 text-[10px] font-bold tracking-wider mb-4 uppercase">Fundador</div>
                   <div className="flex flex-col gap-3">
                     <a href="tel:+50661232277" className="flex items-center gap-3 text-slate-400 hover:text-white transition-colors text-sm">
                       <Phone className="w-4 h-4 text-blue-400" />
